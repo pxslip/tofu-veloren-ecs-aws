@@ -1,0 +1,1 @@
+echo alias terraform=tofu >> ~/.bashrc
