@@ -1,3 +1,15 @@
 [submodule "modules/ecs"]
 	path = modules/ecs
 	url = https://github.com/terraform-aws-modules/terraform-aws-ecs.git
+[submodule "modules/vpc"]
+	path = modules/vpc
+	url = https://github.com/terraform-aws-modules/terraform-aws-vpc.git
+[submodule "modules/alb"]
+	path = modules/alb
+	url = https://github.com/terraform-aws-modules/terraform-aws-alb.git
+[submodule "modules/autoscaling"]
+	path = modules/autoscaling
+	url = https://github.com/terraform-aws-modules/terraform-aws-autoscaling.git
+[submodule "modules/security-group"]
+	path = modules/security-group
+	url = https://github.com/terraform-aws-modules/terraform-aws-security-group.git
